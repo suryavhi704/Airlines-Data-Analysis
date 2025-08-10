@@ -41,8 +41,10 @@ The airline faces shrinking profit margins due to:
 ## 📁 Repository Structure
 /data
 travel.sqlite
+
 /notebooks
 Data analysis-Airlines.ipynb
+
 /outputs
 README.md
 
